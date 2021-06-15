@@ -11,7 +11,9 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working as a **GSSoC'21** Participant.
+- 🔔 I'm currently working as Cyber Security Intern at Gurugram Police (**GPCSSI'21**).
+
+- 🔭 Former Participant at GirlScript Summer of Code (**GSSoC'21**).
 
 - 🌱 I’m currently **learning** everything 🤣
 
