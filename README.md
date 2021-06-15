@@ -1,10 +1,12 @@
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
 <br/>
 
-![Tarun Seal's-cover](cover-img.png)
+![TARUN CHAUHAN's-cover](https://user-images.githubusercontent.com/50846427/122049096-a72c8780-cdff-11eb-8091-59287f2a564a.png)
+
 
 
 ## 🧔 About Me
