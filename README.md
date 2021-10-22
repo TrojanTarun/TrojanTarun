@@ -11,7 +11,7 @@
 
 ## 🧔 About Me
 
-- 🔔 I'm currently working as Intern at 9th Batch of Gurugram Police Cyber Security Summer Insternship (**GPCSSI'21**).
+- 🔔 I'm currently working as Intern at 9th Batch of Gurugram Police Cyber Security Summer Internship (**GPCSSI'21**).
 
 - 🔭 Former Participant at GirlScript Summer of Code (**GSSoC'21**).
 
