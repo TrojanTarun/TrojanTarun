@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently **learning** everything 🤣
 
-- 🥅 **2021 Goals**: Contribute more to **Open Source** projects
+- 🥅 **2022 Goals**: Contribute more to **Open Source** projects
 
 - 😄 Pronouns: He/His
 
